@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Calculator</string>
+    <string name="labelNumber1">Number 1</string>
+    <string name="result">Result</string>
+</resources>
